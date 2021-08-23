@@ -1,0 +1,1 @@
+﻿Test Automation Framework for https://qase.io/
